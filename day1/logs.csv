@@ -1,0 +1,14 @@
+timestamp,user,action,duration_ms
+2026-09-16 08:01:00,alice,login,120
+2026-09-16 08:02:15,bob,login,95
+2026-09-16 08:05:00,alice,click,,
+2026-09-16 08:07:30,carol,login,210
+2026-09-16 08:10:00,bob,purchase,340
+2026-09-16 08:12:00,alice,purchase,
+2026-09-16 08:15:00,dave,login,88
+2026-09-16 08:16:00,carol,click,45
+2026-09-16 08:20:00,bob,logout,60
+2026-09-16 08:22:00,alice,logout,50
+2026-09-16 08:25:00,alice,login,75
+2026-09-16 08:27:00,alice,login,60
+2026-09-16 08:30:00,bob,login,110

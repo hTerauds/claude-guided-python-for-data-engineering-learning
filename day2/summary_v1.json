@@ -1,0 +1,20 @@
+[
+  {
+    "user": "carol",
+    "event_count": 3,
+    "total_duration_ms": 345,
+    "most_common": "click"
+  },
+  {
+    "user": "alice",
+    "event_count": 4,
+    "total_duration_ms": 245,
+    "most_common": "login"
+  },
+  {
+    "user": "bob",
+    "event_count": 2,
+    "total_duration_ms": 240,
+    "most_common": "login"
+  }
+]

@@ -1,0 +1,5 @@
+user,action_count,total_duration_ms,common_action
+bob,4,605,Most common action is login and it appears 2 times in user logs.
+alice,4,305,Most common action is login and it appears 3 times in user logs.
+carol,2,255,Most common action is login and it appears 1 times in user logs.
+dave,1,88,Most common action is login and it appears 1 times in user logs.

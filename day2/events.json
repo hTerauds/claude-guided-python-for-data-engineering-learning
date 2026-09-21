@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "alice",
+      "events": [
+        {"type": "login", "duration_ms": 120},
+        {"type": "click", "duration_ms": 30},
+        {"type": "purchase"},
+        {"type": "login", "duration_ms": 95}
+      ]
+    },
+    {
+      "name": "bob",
+      "events": [
+        {"type": "login", "duration_ms": 200},
+        {"type": "logout", "duration_ms": 40}
+      ]
+    },
+    {
+      "name": "carol",
+      "events": [
+        {"type": "click", "duration_ms": 15},
+        {"type": "click", "duration_ms": 20},
+        {"type": "click", "duration_ms": 15},
+        {"type": "click", "duration_ms": 20},
+        {"type": "purchase", "duration_ms": 310}
+      ]
+    }
+  ]
+}
